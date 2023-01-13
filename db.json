@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "gender": "male"
+    },
+    {
+      "id": "Talib1234",
+      "name": "MD TAlib Ansari",
+      "password": "1234567",
+      "email": "mdtalibansari55048@gmail.com",
+      "phone": "+918084703458",
+      "country": "india",
+      "address": "Panki Chowk",
+      "gender": "male"
+    },
+    {
+      "id": "talib12",
+      "name": "MD Talib Ansari",
+      "password": "12345678",
+      "email": "mdtalibansari55048@gmail.com",
+      "phone": "+918084703458",
+      "country": "india",
+      "address": "Panki Chowk",
+      "gender": "male"
+    }
+  ]
+}
